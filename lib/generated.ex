@@ -1,4 +1,4 @@
-defmodule ProtobufNilExample do
+defmodule Generated do
   defmodule Data do
     @type t :: %Data{
             b: Example.B.t()
