@@ -1,4 +1,6 @@
 # ProtobufNilExample
+Fixed in https://github.com/tony612/protobuf-elixir/pull/33
+
 This repo proves that protobuf message typespec should include nil
 
 ```
